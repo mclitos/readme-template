@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-## Sobre mim
+## Sobre mí
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🤔 Explorando nuevas tecnologías y desarrollando soluciones de software.
+- 🎓 Estudiando {el curso} en {facultad}.
+- 💼 Trabajando como {stack en el que trabajas} en {empresa}.
+- 🌱 Aprender más sobre {las tecnologías que estás aprendiendo}.
 
-## Minhas Skills
+## Mis Skills
 
-**Aplicações e dados**
+**Aplicaciones y datos**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-**Ferramentas de desenvolvimento**
+**Herramientas de desarrollo**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -49,8 +49,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Donde me encuentra
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/sumail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SU-EMAIL)](mailto:SU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
