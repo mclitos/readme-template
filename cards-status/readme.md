@@ -1,8 +1,8 @@
-## Como usar os cards?
+## ¿Cómo utilizar las tarjetas?
 
-Como usar? É simples: copie e cole em seu readme e pronto!
+¿Cómo utilizarlo? ¡Es muy sencillo: copia y pega en tu archivo README y listo!
 
-Altere o `iuricode` para o nome de usuário do GitHub.
+Cambia el `iuricode` por tu nombre de usuario de GitHub.
 
 ```md
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,7 +10,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-### Adicionando ícones
+### Agregar iconos
 
 ```md
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,7 +18,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Mostrar linguagens
+##Mostrar idiomas
 
 ```md
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,7 +26,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-## Ou
+## O
 
 ```md
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -38,11 +38,11 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 ## Temas
 
-Altere o `default` para o nome do tema que deseja usar.
+Cambie `default` por el nombre del tema que desea utilizar.
 
-Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast e dracula.
+Temas disponibles: oscuro, radical, merko, gruvbox, tokyonight, onedark, cobalto, synthwave, alto contraste y drácula.
 
-### Padrão
+### Estándar
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
