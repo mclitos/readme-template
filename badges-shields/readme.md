@@ -1,22 +1,22 @@
-## Como usar os badges shields?
+## ¿Cómo utilizar las insignias de escudo?
 
-1. Pegue a URL
-2. Cria a tag img `<img src="BadgeURLAqui" />` ou `![image](BadgeURLAqui)`
-3. Copie e cole no seu readme
+1. Pegue la URL
+2.Crea la etiqueta img `<img src="BadgeURLHere" />` o `![image](BadgeURLHere)`
+3. Copiar y pegar en el archivo Léame
 
 ## Menu
 
-- [Como usar os badges shields?](#como-usar-os-badges-shields)
+- [¿Cómo utilizar las insignias de escudo?](#como-usar-os-badges-shields)
 - [Menu](#menu)
-- [Contato](#contato)
+- [Contacto](#contato)
 - [Social](#social)
 - [Blog](#blog)
 - [Streaming](#streaming)
 - [IDES](#ides)
 - [Skills](#skills)
-- [Jogos](#jogos)
+- [Juegos](#jogos)
 
-## Contato
+## Contacto
 
 | Badge | URL
 ------------ | -------------
@@ -185,7 +185,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white`
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> | `https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black`
 
-## Jogos
+## Juegos
 
 Badge | URL
 ------------ | -------------
@@ -200,9 +200,9 @@ Badge | URL
 
 ---
 
-## Outros tipos de Badges
+## Otros tipos de insignias
 
-Definimos o estilo através do parâmetro *style=* seguido do estilo escolhido. Aqui tem uma lista dos estilos disponíveis:
+Definimos el estilo utilizando el parámetro *style=* seguido del estilo elegido. Aquí hay una lista de estilos disponibles:
 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | Flat (padrão)
 
