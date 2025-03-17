@@ -1,4 +1,4 @@
-# Nome do projeto
+# Nombre del proyecto
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -6,69 +6,69 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="imagem.png" alt="Imagen Ejemplo">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Línea adicional de texto informativo sobre lo que hace el proyecto. Su introducción debe tener una longitud de aproximadamente 2 o 3 líneas. No exageres, la gente no lo leerá.
 
-### Ajustes e melhorias
+### Ajustes y mejoras
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+El proyecto aún está en desarrollo y las próximas actualizaciones se centrarán en las siguientes tareas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Tarea 1
+- [x] Tarea 2
+- [x] Tarea 3
+- [ ] Tarea 4
+- [ ] Tarea 5
 
-## 💻 Pré-requisitos
+## 💻 Pre-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Antes de comenzar, asegúrese de cumplir los siguientes requisitos:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Haz instalado la última versión de `<lenguaje / dependencia / requerimientos>`
+- Requerimientos `<Windows / Linux / Mac>`.Indique qué sistema operativo es compatible/no compatible.
+- Documentacion `<guia / link / documentacio_relacionada_del_projeto>`.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando <nombre_del_proyecto>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar <nombre_del_proyecto>, siga estos pasos:
 
-Linux e macOS:
+Linux y macOS:
 
 ```
-<comando_de_instalação>
+<comando_de_instalacion>
 ```
 
 Windows:
 
 ```
-<comando_de_instalação>
+<<comando_de_instalacion>
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando <nombre_del_proyecto>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para utilizar <nombre_del_proyecto>, siga estos pasos:
 
 ```
-<exemplo_de_uso>
+<ejemplo_de_uso>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+Agregue comandos de tiempo de ejecución y ejemplos que crea que los usuarios encontrarán útiles. ¡Proporcione una referencia de opciones para obtener puntos de bonificación!
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuyendo al <nombre_del_proyecto>
 
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir a <nombre_del_proyecto>, siga estos pasos:
 
 1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
+2. Cree un branch: `git checkout -b <nome_branch>`.
+3. Realice sus cambios y confírmelos: `git commit -m '<mensagem_commit>'`
+4. Envielo al branch original: `git push origin <nome_do_projeto> / <local>`
+5. Pida una solicitud de pull.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Alternativamente, consulte la documentación de GitHub en [como solicitar un  pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Nos gustaría agradecer a las siguientes personas que contribuyeron a este proyecto:
 
 <table>
   <tr>
@@ -99,10 +99,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 😄 Seja um dos contribuidores
+## 😄 Sea uno de los colaboradores
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+¿Quieres formar parte de este proyecto? Haga clic [AQUÍ](CONTRIBUTING.md) y lea cómo contribuir.
 
-## 📝 Licença
+## 📝 Licencia
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Este proyecto está bajo licencia. Consulte el archivo [LICENSE](LICENSE.md) para obtener más detalles.
