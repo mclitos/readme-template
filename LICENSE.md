@@ -1,8 +1,8 @@
 #### Copyright © 2020 / [Iuri Silva](https://github.com/iuricode)
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, sem restrição nos direitos de usar, copiar, modificar e mesclar.
+Se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este archivo, sin restricciones en los derechos de uso, copia, modificación y fusión.
 
-#### Referências
+#### Referencias
 
 - [GitHub readme stats](https://github.com/anuraghazra/github-readme-stats)
 - [Awesome profile readme templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
