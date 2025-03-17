@@ -2,6 +2,6 @@
 
 ### Hola, mi nombre es {tu nombre}!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SUNOMbre&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=SUNOMBRE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabajando en {nombre de empresa}<br/> Soy un desarrollador {su stack}</p>
