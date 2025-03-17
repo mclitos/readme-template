@@ -1,14 +1,14 @@
-# Como contribuir?
+# ¿Cómo colaborar?
 
-Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [abra uma issue](https://github.com/iuricode/readme-template/issues/new).
+Este es un proyecto completamente gratuito que acepta contribuciones a través de solicitudes de extracción en GitHub. Este documento es responsable de alinear las contribuciones de acuerdo a los estándares allí establecidos. Si tienes alguna pregunta, [abrir un problema](https://github.com/iuricode/readme-template/issues/new).
 
-## Passos
+## Pasos
 
-1. Crie um fork deste repositório.
-2. Envie seus commits em português.
-3. Insira um pequeno resumo sobre o que foi adicionado.
-4. Solicite um pull request.
+1. Bifurcar este repositorio.
+2. Envíe sus confirmaciones en portugués.
+3. Ingrese un breve resumen de lo agregado.
+4. Solicitar una solicitud de extracción.
 
-## Recomendação (opcional)
+## Recomendación (opcional)
 
-Para uma melhor semântica nos commits, recomendamos nosso repositório sobre [padrões de commits](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
+Para una mejor semántica en las confirmaciones, recomendamos nuestro repositorio en [patrones de confirmación](https://github.com/iuricode/commit-patterns). Esto hará que sea más fácil evaluar su solicitud de extracción.
