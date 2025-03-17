@@ -1,57 +1,57 @@
-# 🐙 Formatações avançadas
+# 🐙  Formato avanzado
 
 ## Alertas
 
-Alertas são uma extensão Markdown baseada na sintaxe blockquote que você pode usar para enfatizar informações críticas. Eles são exibidos com cores e ícones distintos para indicar a importância do conteúdo.
+Las alertas son una extensión de Markdown basada en la sintaxis blockquote que puedes utilizar para resaltar información crítica. Se muestran con colores e iconos distintos para indicar la importancia del contenido.
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Información útil que los usuarios deben saber, incluso cuando hojean el contenido.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Consejos útiles para hacer las cosas mejor o más fácilmente.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Información clave que los usuarios necesitan saber para lograr su objetivo.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Información urgente que necesita atención inmediata del usuario para evitar problemas.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Informa sobre los riesgos o resultados negativos de determinadas acciones.
 
-## Seção recolhida
+## Sección colapsada
 
-Você pode recolher temporariamente seções do seu Markdown criando uma seção expandida que o leitor pode optar por expandir. Por exemplo, quando você deseja incluir detalhes técnicos em um comentário do problema que pode não ser relevante ou interessante para todos os leitores, você pode colocar esses detalhes em uma seção recolhida.
+Puedes contraer temporalmente secciones de tu Markdown creando una sección expandida que el lector puede elegir expandir. Por ejemplo, cuando desea incluir detalles técnicos en un comentario sobre un problema que pueden no ser relevantes o interesantes para todos los lectores, puede colocar esos detalles en una sección contraída.
 
-Qualquer Markdown dentro do bloco `<details>` estará recolhido até que o leitor clique em para expandir os detalhes.
+Cualquier Markdown dentro del bloque `<details>` se contraerá hasta que el lector haga clic para expandir los detalles.
 
-No bloco `<details>`, use a marca `<summary>` para que os leitores saibam o que está dentro dele. O rótulo aparece à direita de .
+En el bloque `<details>`, utilice la etiqueta `<summary>` para que los lectores sepan qué hay dentro. La etiqueta aparece a la derecha de .
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Consejos para secciones colapsadas</summary>
 
-### You can add a header
+### Puedes agregar un encabezado
 
-You can add text within a collapsed section.
+Puedes añadir texto dentro de una sección contraída.
 
-You can add an image or a code block, too.
+También puedes añadir una imagen o un bloque de código.
 
 ```ruby
-   puts "Hello World"
+   "Hola Mundo"
 ```
 
 </details>
 
-## Diagramas do Mermaid
+## Diagramas de Mermaid (sirena)
 
-O Mermaid é uma ferramenta inspirada em Markdown que transforma texto em diagramas. Por exemplo, o Mermaid pode interpretar gráficos de fluxo, diagramas de sequência, gráficos de pizza e muito mais.
+Mermaid es una herramienta inspirada en Markdown que convierte texto en diagramas. Por ejemplo, Mermaid puede interpretar diagramas de flujo, diagramas de secuencia, gráficos circulares y más.
 
-Para criar um diagrama do Mermaid, adicione a sintaxe do Mermaid dentro de um bloco de código isolado com o identificador de linguagem mermaid. 
+Para crear un diagrama de Mermaid, agregue la sintaxis de sirena dentro de un bloque de código independiente con el identificador de idioma Mermaid.
 
-Por exemplo, você pode criar um fluxograma especificando valores e setas.
+Por ejemplo, puede crear un diagrama de flujo especificando valores y flechas.
 
-Here is a simple flow chart:
+A continuación se muestra un diagrama de flujo simple:
 
 ```mermaid
 graph TD;
@@ -63,7 +63,7 @@ graph TD;
 
 ## Mapas
 
-É possível usar a sintaxe GeoJSON ou TopoJSON para criar mapas interativos. Para criar um mapa, adicione GeoJSON ou TopoJSON em um bloco de código protegido com o identificador de sintaxe geojson ou topojson. 
+Puede utilizar la sintaxis GeoJSON o TopoJSON para crear mapas interactivos. Para crear un mapa, agregue GeoJSON o TopoJSON en un bloque de código protegido con el identificador de sintaxis geojson o topojson.
 
 ```geojson
 {
