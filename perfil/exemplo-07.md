@@ -1,4 +1,4 @@
-## Olá, meu nome é {seu nome}!
+## Hola, mi nombre es {tu nombre}!
 
 ### ⚙️ GitHub Analytics
 
@@ -36,7 +36,7 @@
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
+    title="repositório de trofeos"
   >
     <img
       width="800"
@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Recuento de visitantes del perfil</b></h3>
 </div>
 
 <p align="center">
