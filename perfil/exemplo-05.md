@@ -1,14 +1,13 @@
-## 💜 Olá, meu nome é {seu nome}!
+## 💜 Hola mi nombre es {su nombree}!
 
-Faça uma breve apresentação sobre você e a sua stack.
+Proporcione una breve introducción sobre usted y su pila.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Escribe sobre un proyecto que hayas desarrollado o en el que estés trabajando actualmente.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
+💬 Escribe un mensaje para que la gente se ponga en contacto contigo o te haga preguntas.
 ---
 
-## 🚀 Minhas Skills
+## 🚀 Mis Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
