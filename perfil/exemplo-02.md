@@ -2,15 +2,15 @@
 import Desenvolvedor from "SeuNick";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
+  nombre = "Su Nombre";
+  area = "Su área";
+  trabajo = "Donde trabajs";
   local = "Local";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  lenguajes = ["Sus lemguajes"];
+  bibliotecas = ["Sus bibliotecas"];
+  frameworks = ["Sus frameworks"];
 }
 ```
